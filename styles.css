@@ -38,7 +38,7 @@ p {
   margin-bottom: 20px;
 }
 
-.container {
+main {
   width: 315px;
   background-color: white;
   display: flex;
@@ -57,7 +57,7 @@ p {
   border-radius: 8px;
 }
 
-.attribution {
+footer {
   position: absolute;
   bottom: 0;
 }
