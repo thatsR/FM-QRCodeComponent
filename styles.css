@@ -24,19 +24,19 @@ body {
   color: var(--dark_blue);
 }
 
-.title {
+h1 {
   font-size: 22px;
   font-weight: 700;
 }
 
-.description {
+p {
   padding: 0 12px;
   font-size: 15px;
   font-weight: 400;
   color: var(--grayish_blue);
 }
 
-#qr-code, .title, .description {
+#qr-code, h1, p {
   margin-bottom: 20px;
 }
 
