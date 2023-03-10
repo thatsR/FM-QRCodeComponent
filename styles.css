@@ -13,11 +13,9 @@
 body {
   height: 100vh;
   display: flex;
-  position: relative;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
   background-color: var(--light_gray);
   font-size: 15px;
   font-family: "Outfit", sans-serif;
@@ -50,6 +48,7 @@ p {
   padding: 15px;
   border-radius: 15px;
   text-align: center;
+  box-shadow: 0 0 20px 10px rgba(0, 0, 0, 0.05);
 }
 
 #qr-code {
